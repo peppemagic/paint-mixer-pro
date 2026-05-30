@@ -27,6 +27,11 @@ Il software richiede **Python 3.8+** e le seguenti librerie:
 ```bash
 pip install PyQt5 colormath Pillow scipy numpy
 
+## Credits & Acknowledgements
+
+* **Color Wheel:** The color wheel image (`cwheel06.gif`) is property of **Bruce MacEvoy** ([handprint.com](https://www.handprint.com)). It is used here in good faith for educational, non-commercial, and artistic visualization purposes.
+* **Color Math:** Built using the `colormath` library for CIE LAB color space calculations.
+
 Sviluppato da Giuseppe Luongo.
 ========================================================================
 NOTE LEGALI E LICENZA D'USO
